@@ -34,7 +34,7 @@ bun dev
 ```
 
 ## Contact Details
-Subha Mukherjee Linkedin Profile :- https://www.linkedin.com/in/veerendranadh-koppula/ <br/>
+veerendranadh koppula Linkedin Profile :- https://www.linkedin.com/in/veerendranadh-koppula/ <br/>
 Contact No :- +91 7981809940 <br/>
 Gmail :- veerendrakoppula69@gmail.com
 
