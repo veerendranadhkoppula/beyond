@@ -1,5 +1,5 @@
 # BeyondChats Assignment
-### Assignment from the BeyondChats company completed by 2 days
+### Assignment from the BeyondChats company 
 
 This is the clone of the Telegram App only the UI with a theme change feature. User-Friendly UI with Dark and Light Theme Mode Control.
 
@@ -34,9 +34,9 @@ bun dev
 ```
 
 ## Contact Details
-Subha Mukherjee Linkedin Profile :- https://www.linkedin.com/in/subha-mukherjee-652a551ba/ <br/>
-Contact No :- +91 8759290035 <br/>
-Gmail :- subhamukherjee321@gmail.com
+Subha Mukherjee Linkedin Profile :- https://www.linkedin.com/in/veerendranadh-koppula/ <br/>
+Contact No :- +91 7981809940 <br/>
+Gmail :- veerendrakoppula69@gmail.com
 
 
 ## Desktop Screen with Dark Mode View
